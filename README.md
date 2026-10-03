@@ -4,16 +4,24 @@
 
 ### Test 1
 -Maximum hiking time: 4 hours
+
 -Requested difficulty: Moderate
+
 -Expected matching trails: All 6 moderate trails
+
 -Actual matching trails: All 6 moderate trails
+
 -Result: Pass
 
 ### Test 2
 -Maximum hiking time: 0.1 hours
+
 -Requested difficulty: Hard
+
 -Expected matching trails: None
+
 -Actual matching trails: None
+
 -Result: Pass
 
 ## Reflection
