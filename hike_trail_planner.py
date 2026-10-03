@@ -1,3 +1,8 @@
+# My name is Mike Doyle
+# This assignment is the Hike Trail Planner
+# This program helps plan a hiking trip based on your preferred difficulty and your time to hike
+# Could not figure out the error message for the life of me lol
+
 trails = []
 trail_lengths = []
 elevations = []
